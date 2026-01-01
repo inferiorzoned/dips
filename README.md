@@ -1,2 +1,1 @@
-# All the DIP benchmarking code
-
+# All the DIP codes
